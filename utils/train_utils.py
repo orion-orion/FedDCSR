@@ -197,7 +197,7 @@ class EarlyStopping:
             self.counter += 1
             logging.info(
                 f"Early Stopping counter: {self.counter} "
-                "out of {self.patience}")
+                f"out of {self.patience}")
             if self.counter >= self.patience:
                 self.early_stop = True
         else:
@@ -264,7 +264,7 @@ class LRDecay:
                 self.counter += 1
                 logging.info(
                     f"Learning rate decay counter: {self.counter} "
-                    "out of {self.patience}")
+                    f"out of {self.patience}")
                 if self.counter >= self.patience:
                     self.current_lr *= self.lr_decay
                     for client in clients:
