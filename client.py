@@ -217,6 +217,6 @@ class Client:
             checkpoint = torch.load(ckpt_filename)
         except IOError:
             print("[ Fail: Cannot load model from {}. ]".format(ckpt_filename))
-            exit()
+            exit(1)
         if self.trainer.model is not None:
             self.trainer.model.load_state_dict(checkpoint)
