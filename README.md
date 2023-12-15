@@ -7,14 +7,14 @@
 # FedDCSR: Federated Cross-domain Sequential Recommendation via Disentangled Representation Learning
 *[Hongyu Zhang](https://github.com/orion-orion), Dongyi Zheng, Xu Yang, Jiyuan Feng, [Qing Liao](http://liaoqing.hitsz.edu.cn/)\**
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/orion-orion/FedDCSR)[![LICENSE](https://img.shields.io/github/license/orion-orion/FedDCSR)](https://github.com/orion-orion/FedDCSR/blob/main/LICENSE)[![TinyPy](https://img.shields.io/github/stars/orion-orion/FedDCSR?style=social)](https://github.com/orion-orion/FedDCSR)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/orion-orion/FedDCSR)[![LICENSE](https://img.shields.io/github/license/orion-orion/FedDCSR)](https://github.com/orion-orion/FedDCSR/blob/main/LICENSE)[![FedDCSR](https://img.shields.io/github/stars/orion-orion/FedDCSR?style=social)](https://github.com/orion-orion/FedDCSR)
 <br/>
 [![FedDCSR](https://img.shields.io/github/directory-file-count/orion-orion/FedDCSR)](https://github.com/orion-orion/FedDCSR) [![FedDCSR](https://img.shields.io/github/languages/code-size/orion-orion/FedDCSR)](https://github.com/orion-orion/FedDCSR)
 </div>
 
 ## 1 Introduction
 
-This is the source code and baselines of our paper *[FedDCSR: Federated Cross-domain Sequential Recommendation via Disentangled Representation Learning](https://arxiv.org/abs/2309.08420)*. In this paper, we propose **FedDCSR**, a novel federated cross-domain sequential recommendation framework via disentangled representation learning. 
+This is the source code and baselines of our SDM'24 paper *[FedDCSR: Federated Cross-domain Sequential Recommendation via Disentangled Representation Learning](https://arxiv.org/abs/2309.08420)*. In this paper, we propose **FedDCSR**, a novel federated cross-domain sequential recommendation framework via disentangled representation learning. 
 
 ## 2 Dependencies
 
