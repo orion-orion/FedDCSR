@@ -147,12 +147,14 @@ python -u main.py \
 ## 6 Citation
 If you find this work useful for your research, please kindly cite FedDCSR by:
 ```text
-@misc{zhang2023feddcsr,
-      title={FedDCSR: Federated Cross-domain Sequential Recommendation via Disentangled Representation Learning}, 
-      author={Hongyu Zhang and Dongyi Zheng and Xu Yang and Jiyuan Feng and Qing Liao},
-      year={2023},
-      eprint={2309.08420},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
+@inbook{Zhang_2024,
+   title={FedDCSR: Federated Cross-domain Sequential Recommendation via Disentangled Representation Learning},
+   ISBN={9781611978032},
+   url={http://dx.doi.org/10.1137/1.9781611978032.62},
+   DOI={10.1137/1.9781611978032.62},
+   booktitle={Proceedings of the 2024 SIAM International Conference on Data Mining (SDM)},
+   publisher={Society for Industrial and Applied Mathematics},
+   author={Zhang, Hongyu and Zheng, Dongyi and Yang, Xu and Feng, Jiyuan and Liao, Qing},
+   year={2024},
+   month=jan, pages={535–543} }
 ```
